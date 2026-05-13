@@ -1,0 +1,36 @@
+/*
+ ═══════════════════════════════════════════════════
+ 
+                    ／＞　 フ
+                    | 　_　_|         黑猫白底 · 黑白版
+                  ／` ミ＿xノ          by loveless16367
+                 /　　　　 |
+                /　 ヽ　　 ﾉ          2026.05
+               │　　|　|　|
+            ／￣|　　 |　|　|
+            | (￣ヽ＿_ヽ_)__)
+            ＼二つ
+ 
+ ═══════════════════════════════════════════════════
+*/
+
+::selection {
+  background: rgba(106, 82, 133, 0.25) !important;
+  color: inherit !important;
+}
+
+::-moz-selection {
+  background: rgba(106, 82, 133, 0.25) !important;
+  color: inherit !important;
+}
+
+body,
+html,
+#outer {
+  background: transparent;
+}
+
+/*  ╱|、
+   (˚ˎ 。7
+    |、˜〵
+    じしˍ,)ノ   */
